@@ -13,6 +13,7 @@ Currently completing Computer Engineering at Politecnico di Torino.
 - **[fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify)** (PR [#841](https://github.com/fastify/fast-json-stringify/pull/841)): fixed a malformed
 comma serialization edge case in Fastify's JSON stringifier triggered by Zod-generated schemas. Verified with regression tests and benchmarks, reviewed and merged by
 maintainers.
+- **[quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell)** (PR [#1269](https://github.com/quickshell-mirror/quickshell/pull/1269)): fixed a Wayland screencopy crash triggered when capturing a null screen. Diagnosed root cause in C++ and contributed the upstream safeguard.
 
 ---
 
