@@ -1,8 +1,8 @@
 # Alberto Cerqua
 
-Frontend & Full-stack Developer based in Turin, Italy.  
+Frontend developer based in Turin, Italy.  
 Currently completing Computer Engineering at Politecnico di Torino.  
-**Open to full-time remote opportunities.**
+**Open to opportunities, Turin hybrid or remote.**
 
 [Portfolio](https://imalbi.pages.dev) · [LinkedIn](https://www.linkedin.com/in/alberto-cerqua-433059361/) · [Email](mailto:alberto.cerqua@icloud.com)
 
